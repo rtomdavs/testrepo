@@ -29,20 +29,20 @@ plot(pressure)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 
->>> /usr/bin/git commit -F /var/folders/cj/7_kgxrxd0vzbzn64kwtmsyph0000gn/T/RtmpSecjUs/git-commit-message-98921a05c68d.txt
-[main 9347ba7] Initial commit
- Committer: Tom Davis <tomdavis@Toms-MacBook-Pro.local>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly. Run the
-following command and follow the instructions in your editor to edit
-your configuration file:
+# >>> /usr/bin/git commit -F /var/folders/cj/7_kgxrxd0vzbzn64kwtmsyph0000gn/T/RtmpSecjUs/git-commit-message-98921a05c68d.txt
+# [main 9347ba7] Initial commit
+# Committer: Tom Davis <tomdavis@Toms-MacBook-Pro.local>
+# Your name and email address were configured automatically based
+# on your username and hostname. Please check that they are accurate.
+#You can suppress this message by setting them explicitly. Run the
+#following command and follow the instructions in your editor to edit
+# your configuration file:
 
-    git config --global --edit
+#    git config --global --edit
 
-After doing this, you may fix the identity used for this commit with:
+#After doing this, you may fix the identity used for this commit with:
 
-    git commit --amend --reset-author
+#    git commit --amend --reset-author
 
- 1 file changed, 29 insertions(+)
- create mode 100644 testrepomarkdown.Rmd
+# 1 file changed, 29 insertions(+)
+# create mode 100644 testrepomarkdown.Rmd
